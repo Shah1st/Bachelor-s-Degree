@@ -1,1 +1,1 @@
-# Bachelor-s-Degree
+# Flow matching for generating synthetic medical images
