@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-05-14T22:42:01.810090",
+  "real_dataset": "Shah1st/PH2",
+  "generated_dataset": "Shah1st/skin-cancer-flux.1-dev-images",
+  "real_samples_used": 200,
+  "fake_samples_used": 200,
+  "results": {
+    "fid": -8.122241952341616e-05,
+    "is_mean": 2.8618674278259277,
+    "is_std": 0.4064909517765045,
+    "lpips_mean": 0.5740886002779007,
+    "lpips_std": 0.08545337689119367
+  }
+}
